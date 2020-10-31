@@ -7,3 +7,12 @@ D:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDri
 D:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\Entidad\obj\Debug\netcoreapp3.1\Entidad.csproj.CoreCompileInputs.cache
 D:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\Entidad\obj\Debug\netcoreapp3.1\Entidad.dll
 D:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\Entidad\obj\Debug\netcoreapp3.1\Entidad.pdb
+E:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\Entidad\bin\Debug\netcoreapp3.1\Entidad.deps.json
+E:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\Entidad\bin\Debug\netcoreapp3.1\Entidad.dll
+E:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\Entidad\bin\Debug\netcoreapp3.1\Entidad.pdb
+E:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\Entidad\obj\Debug\netcoreapp3.1\Entidad.csprojAssemblyReference.cache
+E:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\Entidad\obj\Debug\netcoreapp3.1\Entidad.AssemblyInfoInputs.cache
+E:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\Entidad\obj\Debug\netcoreapp3.1\Entidad.AssemblyInfo.cs
+E:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\Entidad\obj\Debug\netcoreapp3.1\Entidad.csproj.CoreCompileInputs.cache
+E:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\Entidad\obj\Debug\netcoreapp3.1\Entidad.dll
+E:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\Entidad\obj\Debug\netcoreapp3.1\Entidad.pdb

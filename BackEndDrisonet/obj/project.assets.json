@@ -5253,25 +5253,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\usuario\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\usuario\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Disco local\\disco\\IX-Ciclo\\Construccion Software I\\BackEndDrisonet\\BackEndDrisonet\\BackEndDrisonet\\BackEndDrisonet.csproj",
+      "projectUniqueName": "E:\\Disco local\\disco\\IX-Ciclo\\Construccion Software I\\BackEndDrisonet\\BackEndDrisonet\\BackEndDrisonet\\BackEndDrisonet.csproj",
       "projectName": "BackEndDrisonet",
-      "projectPath": "D:\\Disco local\\disco\\IX-Ciclo\\Construccion Software I\\BackEndDrisonet\\BackEndDrisonet\\BackEndDrisonet\\BackEndDrisonet.csproj",
+      "projectPath": "E:\\Disco local\\disco\\IX-Ciclo\\Construccion Software I\\BackEndDrisonet\\BackEndDrisonet\\BackEndDrisonet\\BackEndDrisonet.csproj",
       "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-      "outputPath": "D:\\Disco local\\disco\\IX-Ciclo\\Construccion Software I\\BackEndDrisonet\\BackEndDrisonet\\BackEndDrisonet\\obj\\",
+      "outputPath": "E:\\Disco local\\disco\\IX-Ciclo\\Construccion Software I\\BackEndDrisonet\\BackEndDrisonet\\BackEndDrisonet\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
         "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -5283,11 +5278,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Disco local\\disco\\IX-Ciclo\\Construccion Software I\\BackEndDrisonet\\BackEndDrisonet\\Entidad\\Entidad.csproj": {
-              "projectPath": "D:\\Disco local\\disco\\IX-Ciclo\\Construccion Software I\\BackEndDrisonet\\BackEndDrisonet\\Entidad\\Entidad.csproj"
+            "E:\\Disco local\\disco\\IX-Ciclo\\Construccion Software I\\BackEndDrisonet\\BackEndDrisonet\\Entidad\\Entidad.csproj": {
+              "projectPath": "E:\\Disco local\\disco\\IX-Ciclo\\Construccion Software I\\BackEndDrisonet\\BackEndDrisonet\\Entidad\\Entidad.csproj"
             },
-            "D:\\Disco local\\disco\\IX-Ciclo\\Construccion Software I\\BackEndDrisonet\\BackEndDrisonet\\Negocio\\Negocio.csproj": {
-              "projectPath": "D:\\Disco local\\disco\\IX-Ciclo\\Construccion Software I\\BackEndDrisonet\\BackEndDrisonet\\Negocio\\Negocio.csproj"
+            "E:\\Disco local\\disco\\IX-Ciclo\\Construccion Software I\\BackEndDrisonet\\BackEndDrisonet\\Negocio\\Negocio.csproj": {
+              "projectPath": "E:\\Disco local\\disco\\IX-Ciclo\\Construccion Software I\\BackEndDrisonet\\BackEndDrisonet\\Negocio\\Negocio.csproj"
             }
           }
         }
@@ -5318,7 +5313,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
       }
     }
   },

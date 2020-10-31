@@ -10,3 +10,15 @@ D:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDri
 D:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\Negocio\obj\Debug\netcoreapp3.1\Negocio.csproj.CopyComplete
 D:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\Negocio\obj\Debug\netcoreapp3.1\Negocio.dll
 D:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\Negocio\obj\Debug\netcoreapp3.1\Negocio.pdb
+E:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\Negocio\bin\Debug\netcoreapp3.1\Negocio.deps.json
+E:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\Negocio\bin\Debug\netcoreapp3.1\Negocio.dll
+E:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\Negocio\bin\Debug\netcoreapp3.1\Negocio.pdb
+E:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\Negocio\bin\Debug\netcoreapp3.1\Entidad.dll
+E:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\Negocio\bin\Debug\netcoreapp3.1\Entidad.pdb
+E:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\Negocio\obj\Debug\netcoreapp3.1\Negocio.csprojAssemblyReference.cache
+E:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\Negocio\obj\Debug\netcoreapp3.1\Negocio.AssemblyInfoInputs.cache
+E:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\Negocio\obj\Debug\netcoreapp3.1\Negocio.AssemblyInfo.cs
+E:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\Negocio\obj\Debug\netcoreapp3.1\Negocio.csproj.CoreCompileInputs.cache
+E:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\Negocio\obj\Debug\netcoreapp3.1\Negocio.csproj.CopyComplete
+E:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\Negocio\obj\Debug\netcoreapp3.1\Negocio.dll
+E:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\Negocio\obj\Debug\netcoreapp3.1\Negocio.pdb

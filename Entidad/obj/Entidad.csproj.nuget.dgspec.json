@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Disco local\\disco\\IX-Ciclo\\Construccion Software I\\BackEndDrisonet\\BackEndDrisonet\\Entidad\\Entidad.csproj": {}
+    "E:\\Disco local\\disco\\IX-Ciclo\\Construccion Software I\\BackEndDrisonet\\BackEndDrisonet\\Entidad\\Entidad.csproj": {}
   },
   "projects": {
-    "D:\\Disco local\\disco\\IX-Ciclo\\Construccion Software I\\BackEndDrisonet\\BackEndDrisonet\\Entidad\\Entidad.csproj": {
+    "E:\\Disco local\\disco\\IX-Ciclo\\Construccion Software I\\BackEndDrisonet\\BackEndDrisonet\\Entidad\\Entidad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Disco local\\disco\\IX-Ciclo\\Construccion Software I\\BackEndDrisonet\\BackEndDrisonet\\Entidad\\Entidad.csproj",
+        "projectUniqueName": "E:\\Disco local\\disco\\IX-Ciclo\\Construccion Software I\\BackEndDrisonet\\BackEndDrisonet\\Entidad\\Entidad.csproj",
         "projectName": "Entidad",
-        "projectPath": "D:\\Disco local\\disco\\IX-Ciclo\\Construccion Software I\\BackEndDrisonet\\BackEndDrisonet\\Entidad\\Entidad.csproj",
+        "projectPath": "E:\\Disco local\\disco\\IX-Ciclo\\Construccion Software I\\BackEndDrisonet\\BackEndDrisonet\\Entidad\\Entidad.csproj",
         "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-        "outputPath": "D:\\Disco local\\disco\\IX-Ciclo\\Construccion Software I\\BackEndDrisonet\\BackEndDrisonet\\Entidad\\obj\\",
+        "outputPath": "E:\\Disco local\\disco\\IX-Ciclo\\Construccion Software I\\BackEndDrisonet\\BackEndDrisonet\\Entidad\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
           "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -56,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
