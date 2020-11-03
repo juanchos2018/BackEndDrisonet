@@ -83,8 +83,6 @@ E:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDri
 E:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\BackEndDrisonet\obj\Debug\netcoreapp3.1\BackEndDrisonet.csprojAssemblyReference.cache
 E:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\BackEndDrisonet\obj\Debug\netcoreapp3.1\BackEndDrisonet.AssemblyInfoInputs.cache
 E:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\BackEndDrisonet\obj\Debug\netcoreapp3.1\BackEndDrisonet.AssemblyInfo.cs
-E:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\BackEndDrisonet\obj\Debug\netcoreapp3.1\BackEndDrisonet.csproj.CoreCompileInputs.cache
-E:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\BackEndDrisonet\obj\Debug\netcoreapp3.1\BackEndDrisonet.MvcApplicationPartsAssemblyInfo.cache
 E:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\BackEndDrisonet\obj\Debug\netcoreapp3.1\BackEndDrisonet.RazorAssemblyInfo.cache
 E:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\BackEndDrisonet\obj\Debug\netcoreapp3.1\BackEndDrisonet.RazorAssemblyInfo.cs
 E:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\BackEndDrisonet\obj\Debug\netcoreapp3.1\BackEndDrisonet.TagHelpers.input.cache
@@ -106,3 +104,9 @@ E:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDri
 E:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\BackEndDrisonet\obj\Debug\netcoreapp3.1\BackEndDrisonet.dll
 E:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\BackEndDrisonet\obj\Debug\netcoreapp3.1\BackEndDrisonet.pdb
 E:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\BackEndDrisonet\obj\Debug\netcoreapp3.1\BackEndDrisonet.genruntimeconfig.cache
+E:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\BackEndDrisonet\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\BackEndDrisonet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\BackEndDrisonet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+E:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\BackEndDrisonet\bin\Debug\netcoreapp3.1\Nancy.dll
+E:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\BackEndDrisonet\obj\Debug\netcoreapp3.1\BackEndDrisonet.csproj.CoreCompileInputs.cache
+E:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\BackEndDrisonet\obj\Debug\netcoreapp3.1\BackEndDrisonet.MvcApplicationPartsAssemblyInfo.cache

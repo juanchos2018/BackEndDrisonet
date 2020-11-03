@@ -14,5 +14,6 @@ namespace Entidad
         public string descripcion_noticia { get; set; }
         public string fecha_noticia { get; set; }
         public string img_noticia { get; set; }
+        public string contador { get; set; }
     }
 }

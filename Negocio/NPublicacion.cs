@@ -92,7 +92,8 @@ namespace Negocio
                   titulo_noticia=item.Object.titulo_noticia,
                   descripcion_noticia = item.Object.descripcion_noticia,
                   img_noticia=item.Object.img_noticia,
-                  fecha_noticia=item.Object.fecha_noticia
+                  fecha_noticia=item.Object.fecha_noticia,
+                  key_usuario=item.Object.key_usuario,
               }).ToList();
         }
 

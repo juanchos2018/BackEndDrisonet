@@ -23,8 +23,8 @@ namespace Negocio
                 var id = a.User.LocalId;  //para tener el id del usuario que esta registrado we :V
                 client = new FireSharp.FirebaseClient(conexion.conec());
                 var data = o;
-                data.idusuario = id;
-                SetResponse setResponse = client.Set("Usuario/" + data.idusuario, data);               
+                data.key_usuario = id;
+                SetResponse setResponse = client.Set("Usuario/" + data.key_usuario, data);               
 
             }
             catch (Exception ex)
