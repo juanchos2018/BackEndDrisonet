@@ -18,9 +18,9 @@ namespace BackEndDrisonet.Controllers
             return View();
         }
         [Route("Usuario/SetUsuario")]
-        public IActionResult CrearUsuario([FromBody]Usuario o)
+        public IActionResult CrearUsuario([FromBody] Usuario o)
         {
-            bool completado = false;            
+            bool completado = false;
             Task tarea = Task.Run(() => nusuario.CrearUsuario(o));
             if (tarea.IsCompleted)
             {
@@ -43,6 +43,11 @@ namespace BackEndDrisonet.Controllers
             }
 
             return Json("sin Datos");
+
+        } 
+        public void Consulata()
+        {
+            Console.WriteLine("cmsulta");
 
         }
     }
