@@ -19,12 +19,12 @@ namespace Negocio
             {
                 conexion = new Conexion();
                 var auth = new FirebaseAuthProvider(new FirebaseConfig(conexion.Firekey()));
-                var a = await auth.CreateUserWithEmailAndPasswordAsync(o.correo, o.password, o.nombre, true);
+                var a = await auth.CreateUserWithEmailAndPasswordAsync(o.correo, o.password, o.nombre_usuario, true);
                 var id = a.User.LocalId;  //para tener el id del usuario que esta registrado we :V
                 client = new FireSharp.FirebaseClient(conexion.conec());
                 var data = o;
                 data.key_usuario = id;
-                SetResponse setResponse = client.Set("Usuario/" + data.key_usuario, data);               
+                SetResponse setResponse = client.Set("Usuarios/" + data.key_usuario, data);               
 
             }
             catch (Exception ex)

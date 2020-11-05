@@ -42,7 +42,7 @@ namespace BackEndDrisonet.Controllers
                 return Json(empresa);
             }
 
-            return Json("sin Datos");
+            return Json("nulo");
 
         } 
         public void Consulata()

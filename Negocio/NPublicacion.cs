@@ -89,11 +89,13 @@ namespace Negocio
               .OnceAsync<Publicacion>()).Select(item => new Publicacion
               {
                   key_noticia=item.Object.key_noticia,
-                  titulo_noticia=item.Object.titulo_noticia,
+                  titulo=item.Object.titulo,
                   descripcion_noticia = item.Object.descripcion_noticia,
                   img_noticia=item.Object.img_noticia,
                   fecha_noticia=item.Object.fecha_noticia,
                   key_usuario=item.Object.key_usuario,
+                  contador=item.Object.contador
+                  
               }).ToList();
         }
 

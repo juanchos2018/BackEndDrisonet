@@ -10,7 +10,7 @@ namespace Entidad
         public string nombre_usuario { get; set; }
         public string img_usuario { get; set; }
         public string key_noticia { get; set; }
-        public string titulo_noticia { get; set; }
+        public string titulo { get; set; }
         public string descripcion_noticia { get; set; }
         public string fecha_noticia { get; set; }
         public string img_noticia { get; set; }
