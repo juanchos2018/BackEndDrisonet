@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mAEWeT+nTWFJQ2MnmPTIy3SvpTK3qF4BFzOgLyOLDBEEzPQLPVht2wfToODlwbk+rr40M7ulj1+b0wQi1emTng==",
+  "dgSpecHash": "Cjzf0kkMDFH9vlL2sm17HGTKBRbWRYSJSRm3rhvYasTagQrfcGZIkOYH4RU4pmlwRrtQT/ccxtDEFfqbV+GV4w==",
   "success": true,
-  "projectFilePath": "E:\\Disco local\\disco\\IX-Ciclo\\Construccion Software I\\BackEndDrisonet\\BackEndDrisonet\\BackEndDrisonet\\BackEndDrisonet.csproj",
+  "projectFilePath": "D:\\archivos de juan\\proyectoCsontrucon1back\\BackEndDrisonet\\BackEndDrisonet\\BackEndDrisonet.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\usuario\\.nuget\\packages\\firebase.auth\\1.0.0\\firebase.auth.1.0.0.nupkg.sha512",
     "C:\\Users\\usuario\\.nuget\\packages\\firebasedatabase.net\\4.0.4\\firebasedatabase.net.4.0.4.nupkg.sha512",

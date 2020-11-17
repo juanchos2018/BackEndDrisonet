@@ -22,3 +22,15 @@ E:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDri
 E:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\Negocio\obj\Debug\netcoreapp3.1\Negocio.csproj.CopyComplete
 E:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\Negocio\obj\Debug\netcoreapp3.1\Negocio.dll
 E:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\Negocio\obj\Debug\netcoreapp3.1\Negocio.pdb
+D:\archivos de juan\proyectoCsontrucon1back\BackEndDrisonet\Negocio\bin\Debug\netcoreapp3.1\Negocio.deps.json
+D:\archivos de juan\proyectoCsontrucon1back\BackEndDrisonet\Negocio\bin\Debug\netcoreapp3.1\Negocio.dll
+D:\archivos de juan\proyectoCsontrucon1back\BackEndDrisonet\Negocio\bin\Debug\netcoreapp3.1\Negocio.pdb
+D:\archivos de juan\proyectoCsontrucon1back\BackEndDrisonet\Negocio\bin\Debug\netcoreapp3.1\Entidad.dll
+D:\archivos de juan\proyectoCsontrucon1back\BackEndDrisonet\Negocio\bin\Debug\netcoreapp3.1\Entidad.pdb
+D:\archivos de juan\proyectoCsontrucon1back\BackEndDrisonet\Negocio\obj\Debug\netcoreapp3.1\Negocio.csprojAssemblyReference.cache
+D:\archivos de juan\proyectoCsontrucon1back\BackEndDrisonet\Negocio\obj\Debug\netcoreapp3.1\Negocio.AssemblyInfoInputs.cache
+D:\archivos de juan\proyectoCsontrucon1back\BackEndDrisonet\Negocio\obj\Debug\netcoreapp3.1\Negocio.AssemblyInfo.cs
+D:\archivos de juan\proyectoCsontrucon1back\BackEndDrisonet\Negocio\obj\Debug\netcoreapp3.1\Negocio.csproj.CoreCompileInputs.cache
+D:\archivos de juan\proyectoCsontrucon1back\BackEndDrisonet\Negocio\obj\Debug\netcoreapp3.1\Negocio.csproj.CopyComplete
+D:\archivos de juan\proyectoCsontrucon1back\BackEndDrisonet\Negocio\obj\Debug\netcoreapp3.1\Negocio.dll
+D:\archivos de juan\proyectoCsontrucon1back\BackEndDrisonet\Negocio\obj\Debug\netcoreapp3.1\Negocio.pdb

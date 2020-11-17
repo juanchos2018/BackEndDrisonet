@@ -5239,11 +5239,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Disco local\\disco\\IX-Ciclo\\Construccion Software I\\BackEndDrisonet\\BackEndDrisonet\\Negocio\\Negocio.csproj",
+      "projectUniqueName": "D:\\archivos de juan\\proyectoCsontrucon1back\\BackEndDrisonet\\Negocio\\Negocio.csproj",
       "projectName": "Negocio",
-      "projectPath": "E:\\Disco local\\disco\\IX-Ciclo\\Construccion Software I\\BackEndDrisonet\\BackEndDrisonet\\Negocio\\Negocio.csproj",
+      "projectPath": "D:\\archivos de juan\\proyectoCsontrucon1back\\BackEndDrisonet\\Negocio\\Negocio.csproj",
       "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-      "outputPath": "E:\\Disco local\\disco\\IX-Ciclo\\Construccion Software I\\BackEndDrisonet\\BackEndDrisonet\\Negocio\\obj\\",
+      "outputPath": "D:\\archivos de juan\\proyectoCsontrucon1back\\BackEndDrisonet\\Negocio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5259,8 +5259,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "E:\\Disco local\\disco\\IX-Ciclo\\Construccion Software I\\BackEndDrisonet\\BackEndDrisonet\\Entidad\\Entidad.csproj": {
-              "projectPath": "E:\\Disco local\\disco\\IX-Ciclo\\Construccion Software I\\BackEndDrisonet\\BackEndDrisonet\\Entidad\\Entidad.csproj"
+            "D:\\archivos de juan\\proyectoCsontrucon1back\\BackEndDrisonet\\Entidad\\Entidad.csproj": {
+              "projectPath": "D:\\archivos de juan\\proyectoCsontrucon1back\\BackEndDrisonet\\Entidad\\Entidad.csproj"
             }
           }
         }

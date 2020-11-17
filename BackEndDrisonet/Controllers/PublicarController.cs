@@ -44,13 +44,7 @@ namespace BackEndDrisonet.Controllers
             long size = UploadedFiles.Files.Sum(f => f.Length);
             string ruta = Path.Combine(_env.ContentRootPath, "/Content/Images/");          
             string fileName = "";
-
-            if (size==0)
-            {
-
-            }
-            else
-            {
+            
                 foreach (var formFile in UploadedFiles.Files)
                 {
                     if (formFile.Length > 0)
@@ -63,7 +57,7 @@ namespace BackEndDrisonet.Controllers
                         }
                     }
                 }
-            }
+           
             if (size==0)
             {                
                 Task task = Task.Run(() => publicar.Upload(null, fileName, publica));
@@ -88,15 +82,15 @@ namespace BackEndDrisonet.Controllers
         }
 
         [Route("Publicar/Set_Notificar")]
-        public  IActionResult Set_Notificar()
+        public  IActionResult Set_Notificar(string  token)
         {
-            EnviarNotificacion("token");
+            token="c2Oe5XpHRJ6isxwmhARfgB:APA91bE3BBgJcupCGvCrKNd7FLwht316_SlJ1t_kEff_ss00a3UkHluHc33M15UXkdE-Ow9z5WRd2IRGgYNcyoPalN43EH1LP78b048XUgA6pGgZIOIv7WM9mXFz9jInbbD0FLPJKBP2";
+            EnviarNotificacion(token);
             return Ok();
         }
         public void EnviarNotificacion(string deviceId)
         {
-            string titulos = "Enviar paquete";
-            deviceId = "c2Oe5XpHRJ6isxwmhARfgB:APA91bE3BBgJcupCGvCrKNd7FLwht316_SlJ1t_kEff_ss00a3UkHluHc33M15UXkdE-Ow9z5WRd2IRGgYNcyoPalN43EH1LP78b048XUgA6pGgZIOIv7WM9mXFz9jInbbD0FLPJKBP2";
+            string titulos = "Enviar paquete";           
             string mensajes = "tienes una nueva entrga que hacer";
             string response = "";
             try

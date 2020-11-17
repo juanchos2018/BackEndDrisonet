@@ -15,8 +15,7 @@ namespace Negocio
    public class NPublicacion
     {
 
-        private Conexion conexion;
-      
+        private Conexion conexion;     
 
         public async Task<bool> Upload(FileStream stream, string filenanme, Publicacion obj)
         {
@@ -34,16 +33,15 @@ namespace Negocio
                     {
                         AuthTokenAsyncFactory = () => Task.FromResult(a.FirebaseToken),
                         ThrowOnCancel = true // when you cancel the upload, exception is thrown. By default no exception is thrown
-                })
+                     })
                     .Child("Publicaciones")
                     .Child(filenanme)
                     .PutAsync(stream, cancellation.Token);
                      link = await task;
-              }
+                     }
           
             try
-            {
-                
+            {                
                 Task tarea2 = Task.Run(() => Create_Publicacion(obj, link));
             }
 

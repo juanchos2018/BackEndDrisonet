@@ -20,8 +20,7 @@ namespace BackEndDrisonet.Controllers
         public async Task<IActionResult> Get_Solicitudes([FromBody] Publicacion o)
         {
             string key_usu = o.key_noticia;
-            var listasolicitudes = await solicitud.Lista_Solicitudes(key_usu);
-           // var lista  = listasolicitudes.Where(x=>x.id)
+            var listasolicitudes = await solicitud.Lista_Solicitudes(key_usu);        
             return Json(listasolicitudes);
         }
     }

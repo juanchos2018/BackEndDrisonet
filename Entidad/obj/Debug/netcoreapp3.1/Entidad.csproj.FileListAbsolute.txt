@@ -16,3 +16,12 @@ E:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDri
 E:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\Entidad\obj\Debug\netcoreapp3.1\Entidad.csproj.CoreCompileInputs.cache
 E:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\Entidad\obj\Debug\netcoreapp3.1\Entidad.dll
 E:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\Entidad\obj\Debug\netcoreapp3.1\Entidad.pdb
+D:\archivos de juan\proyectoCsontrucon1back\BackEndDrisonet\Entidad\bin\Debug\netcoreapp3.1\Entidad.deps.json
+D:\archivos de juan\proyectoCsontrucon1back\BackEndDrisonet\Entidad\bin\Debug\netcoreapp3.1\Entidad.dll
+D:\archivos de juan\proyectoCsontrucon1back\BackEndDrisonet\Entidad\bin\Debug\netcoreapp3.1\Entidad.pdb
+D:\archivos de juan\proyectoCsontrucon1back\BackEndDrisonet\Entidad\obj\Debug\netcoreapp3.1\Entidad.csprojAssemblyReference.cache
+D:\archivos de juan\proyectoCsontrucon1back\BackEndDrisonet\Entidad\obj\Debug\netcoreapp3.1\Entidad.AssemblyInfoInputs.cache
+D:\archivos de juan\proyectoCsontrucon1back\BackEndDrisonet\Entidad\obj\Debug\netcoreapp3.1\Entidad.AssemblyInfo.cs
+D:\archivos de juan\proyectoCsontrucon1back\BackEndDrisonet\Entidad\obj\Debug\netcoreapp3.1\Entidad.csproj.CoreCompileInputs.cache
+D:\archivos de juan\proyectoCsontrucon1back\BackEndDrisonet\Entidad\obj\Debug\netcoreapp3.1\Entidad.dll
+D:\archivos de juan\proyectoCsontrucon1back\BackEndDrisonet\Entidad\obj\Debug\netcoreapp3.1\Entidad.pdb

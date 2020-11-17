@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Disco local\\disco\\IX-Ciclo\\Construccion Software I\\BackEndDrisonet\\BackEndDrisonet\\Entidad\\Entidad.csproj",
+      "projectUniqueName": "D:\\archivos de juan\\proyectoCsontrucon1back\\BackEndDrisonet\\Entidad\\Entidad.csproj",
       "projectName": "Entidad",
-      "projectPath": "E:\\Disco local\\disco\\IX-Ciclo\\Construccion Software I\\BackEndDrisonet\\BackEndDrisonet\\Entidad\\Entidad.csproj",
+      "projectPath": "D:\\archivos de juan\\proyectoCsontrucon1back\\BackEndDrisonet\\Entidad\\Entidad.csproj",
       "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-      "outputPath": "E:\\Disco local\\disco\\IX-Ciclo\\Construccion Software I\\BackEndDrisonet\\BackEndDrisonet\\Entidad\\obj\\",
+      "outputPath": "D:\\archivos de juan\\proyectoCsontrucon1back\\BackEndDrisonet\\Entidad\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -41,14 +41,10 @@ namespace BackEndDrisonet.Controllers
                 var empresa = JsonConvert.DeserializeObject<Empresa>(data);
                 return Json(empresa);
             }
-
-            return Json("nulo");
+            return NotFound();
+            //return Json("nulo");
 
         } 
-        public void Consulata()
-        {
-            Console.WriteLine("cmsulta");
-
-        }
+       
     }
 }
