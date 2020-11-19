@@ -43,8 +43,22 @@ namespace BackEndDrisonet.Controllers
             }
             return NotFound();
             //return Json("nulo");
+        }
 
-        } 
-       
+        [Route("Usuario/ObtenerUsuario/{id_usuario?}")]
+        public async Task<IActionResult> Obtener([FromRoute] string id_usuario)
+        {
+            // var firebase = new Firebase.Database.FirebaseClient("https://fir-app-cf755.firebaseio.com/");
+            var allPersons = await nusuario.ListaUsuarios();// GetAllPersons();
+            //  await firebase
+            //    .Child("Usuarios")
+            //   .OnceAsync<Usuario>();
+            var lista = allPersons.Where(x => x.id_usuario == id_usuario).FirstOrDefault();
+          //  Resultado.data = query;
+          //  return Json(lista);
+            return Json(new {data =lista });
+            // return allPersons.Where(a => a.id_usuario == id_usuario).FirstOrDefault();
+        }
+
     }
 }

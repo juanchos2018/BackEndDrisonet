@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\archivos de juan\\proyectoCsontrucon1back\\BackEndDrisonet\\BackEndDrisonet\\BackEndDrisonet.csproj": {}
+    "D:\\Disco local\\disco\\IX-Ciclo\\Construccion Software I\\BackEndDrisonet\\BackEndDrisonet\\BackEndDrisonet\\BackEndDrisonet.csproj": {}
   },
   "projects": {
-    "D:\\archivos de juan\\proyectoCsontrucon1back\\BackEndDrisonet\\BackEndDrisonet\\BackEndDrisonet.csproj": {
+    "D:\\Disco local\\disco\\IX-Ciclo\\Construccion Software I\\BackEndDrisonet\\BackEndDrisonet\\BackEndDrisonet\\BackEndDrisonet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\archivos de juan\\proyectoCsontrucon1back\\BackEndDrisonet\\BackEndDrisonet\\BackEndDrisonet.csproj",
+        "projectUniqueName": "D:\\Disco local\\disco\\IX-Ciclo\\Construccion Software I\\BackEndDrisonet\\BackEndDrisonet\\BackEndDrisonet\\BackEndDrisonet.csproj",
         "projectName": "BackEndDrisonet",
-        "projectPath": "D:\\archivos de juan\\proyectoCsontrucon1back\\BackEndDrisonet\\BackEndDrisonet\\BackEndDrisonet.csproj",
+        "projectPath": "D:\\Disco local\\disco\\IX-Ciclo\\Construccion Software I\\BackEndDrisonet\\BackEndDrisonet\\BackEndDrisonet\\BackEndDrisonet.csproj",
         "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-        "outputPath": "D:\\archivos de juan\\proyectoCsontrucon1back\\BackEndDrisonet\\BackEndDrisonet\\obj\\",
+        "outputPath": "D:\\Disco local\\disco\\IX-Ciclo\\Construccion Software I\\BackEndDrisonet\\BackEndDrisonet\\BackEndDrisonet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -26,12 +26,13 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\archivos de juan\\proyectoCsontrucon1back\\BackEndDrisonet\\Entidad\\Entidad.csproj": {
-                "projectPath": "D:\\archivos de juan\\proyectoCsontrucon1back\\BackEndDrisonet\\Entidad\\Entidad.csproj"
+              "D:\\Disco local\\disco\\IX-Ciclo\\Construccion Software I\\BackEndDrisonet\\BackEndDrisonet\\Entidad\\Entidad.csproj": {
+                "projectPath": "D:\\Disco local\\disco\\IX-Ciclo\\Construccion Software I\\BackEndDrisonet\\BackEndDrisonet\\Entidad\\Entidad.csproj"
               },
-              "D:\\archivos de juan\\proyectoCsontrucon1back\\BackEndDrisonet\\Negocio\\Negocio.csproj": {
-                "projectPath": "D:\\archivos de juan\\proyectoCsontrucon1back\\BackEndDrisonet\\Negocio\\Negocio.csproj"
+              "D:\\Disco local\\disco\\IX-Ciclo\\Construccion Software I\\BackEndDrisonet\\BackEndDrisonet\\Negocio\\Negocio.csproj": {
+                "projectPath": "D:\\Disco local\\disco\\IX-Ciclo\\Construccion Software I\\BackEndDrisonet\\BackEndDrisonet\\Negocio\\Negocio.csproj"
               }
             }
           }
@@ -44,6 +45,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Nancy": {
               "target": "Package",
@@ -72,18 +74,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\archivos de juan\\proyectoCsontrucon1back\\BackEndDrisonet\\Entidad\\Entidad.csproj": {
+    "D:\\Disco local\\disco\\IX-Ciclo\\Construccion Software I\\BackEndDrisonet\\BackEndDrisonet\\Entidad\\Entidad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\archivos de juan\\proyectoCsontrucon1back\\BackEndDrisonet\\Entidad\\Entidad.csproj",
+        "projectUniqueName": "D:\\Disco local\\disco\\IX-Ciclo\\Construccion Software I\\BackEndDrisonet\\BackEndDrisonet\\Entidad\\Entidad.csproj",
         "projectName": "Entidad",
-        "projectPath": "D:\\archivos de juan\\proyectoCsontrucon1back\\BackEndDrisonet\\Entidad\\Entidad.csproj",
+        "projectPath": "D:\\Disco local\\disco\\IX-Ciclo\\Construccion Software I\\BackEndDrisonet\\BackEndDrisonet\\Entidad\\Entidad.csproj",
         "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-        "outputPath": "D:\\archivos de juan\\proyectoCsontrucon1back\\BackEndDrisonet\\Entidad\\obj\\",
+        "outputPath": "D:\\Disco local\\disco\\IX-Ciclo\\Construccion Software I\\BackEndDrisonet\\BackEndDrisonet\\Entidad\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -98,6 +100,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -109,6 +112,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -124,18 +128,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\archivos de juan\\proyectoCsontrucon1back\\BackEndDrisonet\\Negocio\\Negocio.csproj": {
+    "D:\\Disco local\\disco\\IX-Ciclo\\Construccion Software I\\BackEndDrisonet\\BackEndDrisonet\\Negocio\\Negocio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\archivos de juan\\proyectoCsontrucon1back\\BackEndDrisonet\\Negocio\\Negocio.csproj",
+        "projectUniqueName": "D:\\Disco local\\disco\\IX-Ciclo\\Construccion Software I\\BackEndDrisonet\\BackEndDrisonet\\Negocio\\Negocio.csproj",
         "projectName": "Negocio",
-        "projectPath": "D:\\archivos de juan\\proyectoCsontrucon1back\\BackEndDrisonet\\Negocio\\Negocio.csproj",
+        "projectPath": "D:\\Disco local\\disco\\IX-Ciclo\\Construccion Software I\\BackEndDrisonet\\BackEndDrisonet\\Negocio\\Negocio.csproj",
         "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-        "outputPath": "D:\\archivos de juan\\proyectoCsontrucon1back\\BackEndDrisonet\\Negocio\\obj\\",
+        "outputPath": "D:\\Disco local\\disco\\IX-Ciclo\\Construccion Software I\\BackEndDrisonet\\BackEndDrisonet\\Negocio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -150,9 +154,10 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\archivos de juan\\proyectoCsontrucon1back\\BackEndDrisonet\\Entidad\\Entidad.csproj": {
-                "projectPath": "D:\\archivos de juan\\proyectoCsontrucon1back\\BackEndDrisonet\\Entidad\\Entidad.csproj"
+              "D:\\Disco local\\disco\\IX-Ciclo\\Construccion Software I\\BackEndDrisonet\\BackEndDrisonet\\Entidad\\Entidad.csproj": {
+                "projectPath": "D:\\Disco local\\disco\\IX-Ciclo\\Construccion Software I\\BackEndDrisonet\\BackEndDrisonet\\Entidad\\Entidad.csproj"
               }
             }
           }
@@ -165,6 +170,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "FireSharp": {
               "target": "Package",
@@ -198,7 +204,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

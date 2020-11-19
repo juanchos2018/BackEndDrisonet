@@ -5239,11 +5239,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\archivos de juan\\proyectoCsontrucon1back\\BackEndDrisonet\\Negocio\\Negocio.csproj",
+      "projectUniqueName": "D:\\Disco local\\disco\\IX-Ciclo\\Construccion Software I\\BackEndDrisonet\\BackEndDrisonet\\Negocio\\Negocio.csproj",
       "projectName": "Negocio",
-      "projectPath": "D:\\archivos de juan\\proyectoCsontrucon1back\\BackEndDrisonet\\Negocio\\Negocio.csproj",
+      "projectPath": "D:\\Disco local\\disco\\IX-Ciclo\\Construccion Software I\\BackEndDrisonet\\BackEndDrisonet\\Negocio\\Negocio.csproj",
       "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-      "outputPath": "D:\\archivos de juan\\proyectoCsontrucon1back\\BackEndDrisonet\\Negocio\\obj\\",
+      "outputPath": "D:\\Disco local\\disco\\IX-Ciclo\\Construccion Software I\\BackEndDrisonet\\BackEndDrisonet\\Negocio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5258,9 +5258,10 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\archivos de juan\\proyectoCsontrucon1back\\BackEndDrisonet\\Entidad\\Entidad.csproj": {
-              "projectPath": "D:\\archivos de juan\\proyectoCsontrucon1back\\BackEndDrisonet\\Entidad\\Entidad.csproj"
+            "D:\\Disco local\\disco\\IX-Ciclo\\Construccion Software I\\BackEndDrisonet\\BackEndDrisonet\\Entidad\\Entidad.csproj": {
+              "projectPath": "D:\\Disco local\\disco\\IX-Ciclo\\Construccion Software I\\BackEndDrisonet\\BackEndDrisonet\\Entidad\\Entidad.csproj"
             }
           }
         }
@@ -5273,6 +5274,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "FireSharp": {
             "target": "Package",
@@ -5306,7 +5308,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   },

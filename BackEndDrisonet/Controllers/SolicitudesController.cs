@@ -23,5 +23,12 @@ namespace BackEndDrisonet.Controllers
             var listasolicitudes = await solicitud.Lista_Solicitudes(key_usu);        
             return Json(listasolicitudes);
         }
+        [Route("Solicitude/SetResponde")]
+        public async Task<IActionResult> ResponderSolicitud([FromBody] Publicacion o)
+        {
+            string key_usu = o.key_noticia;
+            var listasolicitudes = await solicitud.Lista_Solicitudes(key_usu);
+            return Json(listasolicitudes);
+        }
     }
 }

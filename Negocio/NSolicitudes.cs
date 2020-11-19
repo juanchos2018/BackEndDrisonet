@@ -14,17 +14,18 @@ namespace Negocio
         {
             var firebase = new Firebase.Database.FirebaseClient("https://fir-app-cf755.firebaseio.com/");
             return (await firebase
-              .Child("MisPeticiones").Child(id_usuario)
+              .Child("Solicitudes").Child(id_usuario)
               .OnceAsync<Solicitudes>()).Select(item => new Solicitudes
               {
-                  nombre = item.Object.nombre,
-                  apellido=item.Object.apellido,
+                  nombre_usuario = item.Object.nombre_usuario,              
                   token=item.Object.token,
                   estado=item.Object.estado,
-                  dni=item.Object.dni,
-
-                 
+                  dni_usuario=item.Object.dni_usuario,
+                  img_usuario=item.Object.img_usuario,
+                  id_usuario=item.Object.id_usuario
               }).ToList();
         }
+
+
     }
 }

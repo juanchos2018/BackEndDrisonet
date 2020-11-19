@@ -77,74 +77,17 @@ namespace BackEndDrisonet.Controllers
         public async Task<IActionResult> Get_Publicaciones([FromBody] Usuario o)
         {   
             var ListaPublicaciones = await publicar.Lista_Publicacion();
-            var lista = ListaPublicaciones.Where(x => x.key_usuario == o.key_usuario).ToList();
+            var lista = ListaPublicaciones.Where(x => x.key_usuario == o.id_usuario).ToList();
             return Json(lista);
         }
 
-        [Route("Publicar/Set_Notificar")]
-        public  IActionResult Set_Notificar(string  token)
-        {
-            token="c2Oe5XpHRJ6isxwmhARfgB:APA91bE3BBgJcupCGvCrKNd7FLwht316_SlJ1t_kEff_ss00a3UkHluHc33M15UXkdE-Ow9z5WRd2IRGgYNcyoPalN43EH1LP78b048XUgA6pGgZIOIv7WM9mXFz9jInbbD0FLPJKBP2";
-            EnviarNotificacion(token);
-            return Ok();
-        }
-        public void EnviarNotificacion(string deviceId)
-        {
-            string titulos = "Enviar paquete";           
-            string mensajes = "tienes una nueva entrga que hacer";
-            string response = "";
-            try
-            {
-                string titulo = titulos;
-                string mensaje = mensajes;
-                string applicationID = "AAAAFOcMi-k:APA91bFtOu1xbHUqAtmstTQlI-VRi6Nkx-s2vBFtxIgrXsP2TXKP8S0EqVWub70qL73BWNDtypCkPhv2NP_2CzGTxMjV93q9tiICF3xJzztKc8n5Dq39VUhzF_HctlPc1-E5IVjQj3JU";
-                string senderId = "89775705065";
-
-                //token de usuario
-                //   string deviceId = "dPy0QisHT_Ksm3snK-GonO:APA91bG8j2n4rJvB8INUoaYhRnb8vSXrmRRS7p6rgmP7KZ9PVORB1Cx0fusVzWtu2_J7g0wZnCIif1Qsx9bqwOTu_Cytu2gMI1vDyWuLfxlFDBtpKi87JeQQHfx3ERnw_dC9zSfTY41C";
-                WebRequest tRequest = WebRequest.Create("https://fcm.googleapis.com/fcm/send");
-                tRequest.Method = "post";
-                tRequest.ContentType = "application/json";
-                var data = new
-                {
-                    to = deviceId,
-                    notification = new
-                    {
-                        body = mensaje,
-                        title = titulo,
-                        sound = "Enabled"
-                    }
-                };
-             
-                var serializer = new JavaScriptSerializer();
-                var json = serializer.Serialize(data);
-                Byte[] byteArray = Encoding.UTF8.GetBytes(json);
-                tRequest.Headers.Add(string.Format("Authorization: key={0}", applicationID));
-                tRequest.Headers.Add(string.Format("Sender: id={0}", senderId));
-                tRequest.ContentLength = byteArray.Length;
-
-                using (Stream dataStream = tRequest.GetRequestStream())
-                {
-                    dataStream.Write(byteArray, 0, byteArray.Length);
-                    using (WebResponse tResponse = tRequest.GetResponse())
-                    {
-                        using (Stream dataStreamResponse = tResponse.GetResponseStream())
-                        {
-                            using (StreamReader tReader = new StreamReader(dataStreamResponse))
-                            {
-                                String sResponseFromServer = tReader.ReadToEnd();
-                                string str = sResponseFromServer;
-                                response = sResponseFromServer;
-                            }
-                        }
-                    }
-                }
-            }
-            catch (Exception ex)
-            {
-                string str = ex.Message;
-            }
-
-        }
+        //[Route("Publicar/Set_Notificar")]
+        //public  IActionResult Set_Notificar(string  token)
+        //{
+        //    token="c2Oe5XpHRJ6isxwmhARfgB:APA91bE3BBgJcupCGvCrKNd7FLwht316_SlJ1t_kEff_ss00a3UkHluHc33M15UXkdE-Ow9z5WRd2IRGgYNcyoPalN43EH1LP78b048XUgA6pGgZIOIv7WM9mXFz9jInbbD0FLPJKBP2";
+        //    EnviarNotificacion(token);
+        //    return Ok();
+        //}
+       
     }
 }
