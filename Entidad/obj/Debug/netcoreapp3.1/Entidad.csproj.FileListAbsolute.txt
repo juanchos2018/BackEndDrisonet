@@ -19,7 +19,6 @@ D:\archivos de juan\proyectoCsontrucon1back\BackEndDrisonet\Entidad\obj\Debug\ne
 D:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\Entidad\bin\Debug\netcoreapp3.1\Entidad.deps.json
 D:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\Entidad\bin\Debug\netcoreapp3.1\Entidad.dll
 D:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\Entidad\bin\Debug\netcoreapp3.1\Entidad.pdb
-D:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\Entidad\obj\Debug\netcoreapp3.1\Entidad.csprojAssemblyReference.cache
 D:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\Entidad\obj\Debug\netcoreapp3.1\Entidad.AssemblyInfoInputs.cache
 D:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\Entidad\obj\Debug\netcoreapp3.1\Entidad.AssemblyInfo.cs
 D:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\Entidad\obj\Debug\netcoreapp3.1\Entidad.csproj.CoreCompileInputs.cache

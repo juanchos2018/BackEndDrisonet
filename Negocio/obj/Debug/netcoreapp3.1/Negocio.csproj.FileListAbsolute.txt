@@ -22,15 +22,15 @@ D:\archivos de juan\proyectoCsontrucon1back\BackEndDrisonet\Negocio\obj\Debug\ne
 D:\archivos de juan\proyectoCsontrucon1back\BackEndDrisonet\Negocio\obj\Debug\netcoreapp3.1\Negocio.csproj.CopyComplete
 D:\archivos de juan\proyectoCsontrucon1back\BackEndDrisonet\Negocio\obj\Debug\netcoreapp3.1\Negocio.dll
 D:\archivos de juan\proyectoCsontrucon1back\BackEndDrisonet\Negocio\obj\Debug\netcoreapp3.1\Negocio.pdb
+D:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\Negocio\obj\Debug\netcoreapp3.1\Negocio.csprojAssemblyReference.cache
+D:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\Negocio\obj\Debug\netcoreapp3.1\Negocio.AssemblyInfoInputs.cache
+D:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\Negocio\obj\Debug\netcoreapp3.1\Negocio.AssemblyInfo.cs
+D:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\Negocio\obj\Debug\netcoreapp3.1\Negocio.csproj.CoreCompileInputs.cache
 D:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\Negocio\bin\Debug\netcoreapp3.1\Negocio.deps.json
 D:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\Negocio\bin\Debug\netcoreapp3.1\Negocio.dll
 D:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\Negocio\bin\Debug\netcoreapp3.1\Negocio.pdb
 D:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\Negocio\bin\Debug\netcoreapp3.1\Entidad.dll
 D:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\Negocio\bin\Debug\netcoreapp3.1\Entidad.pdb
-D:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\Negocio\obj\Debug\netcoreapp3.1\Negocio.csprojAssemblyReference.cache
-D:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\Negocio\obj\Debug\netcoreapp3.1\Negocio.AssemblyInfoInputs.cache
-D:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\Negocio\obj\Debug\netcoreapp3.1\Negocio.AssemblyInfo.cs
-D:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\Negocio\obj\Debug\netcoreapp3.1\Negocio.csproj.CoreCompileInputs.cache
 D:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\Negocio\obj\Debug\netcoreapp3.1\Negocio.csproj.CopyComplete
 D:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\Negocio\obj\Debug\netcoreapp3.1\Negocio.dll
 D:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\Negocio\obj\Debug\netcoreapp3.1\Negocio.pdb

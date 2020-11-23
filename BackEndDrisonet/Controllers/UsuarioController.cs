@@ -59,6 +59,6 @@ namespace BackEndDrisonet.Controllers
             return Json(new {data =lista });
             // return allPersons.Where(a => a.id_usuario == id_usuario).FirstOrDefault();
         }
-
+       
     }
 }

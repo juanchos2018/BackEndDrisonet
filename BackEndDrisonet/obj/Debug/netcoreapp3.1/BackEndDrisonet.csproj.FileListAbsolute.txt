@@ -114,7 +114,6 @@ D:\archivos de juan\proyectoCsontrucon1back\BackEndDrisonet\BackEndDrisonet\obj\
 D:\archivos de juan\proyectoCsontrucon1back\BackEndDrisonet\BackEndDrisonet\obj\Debug\netcoreapp3.1\BackEndDrisonet.dll
 D:\archivos de juan\proyectoCsontrucon1back\BackEndDrisonet\BackEndDrisonet\obj\Debug\netcoreapp3.1\BackEndDrisonet.pdb
 D:\archivos de juan\proyectoCsontrucon1back\BackEndDrisonet\BackEndDrisonet\obj\Debug\netcoreapp3.1\BackEndDrisonet.genruntimeconfig.cache
-D:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\BackEndDrisonet\obj\Debug\netcoreapp3.1\BackEndDrisonet.csprojAssemblyReference.cache
 D:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\BackEndDrisonet\obj\Debug\netcoreapp3.1\BackEndDrisonet.AssemblyInfoInputs.cache
 D:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\BackEndDrisonet\obj\Debug\netcoreapp3.1\BackEndDrisonet.AssemblyInfo.cs
 D:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\BackEndDrisonet\obj\Debug\netcoreapp3.1\BackEndDrisonet.csproj.CoreCompileInputs.cache
@@ -152,6 +151,7 @@ D:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDri
 D:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\BackEndDrisonet\bin\Debug\netcoreapp3.1\Negocio.dll
 D:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\BackEndDrisonet\bin\Debug\netcoreapp3.1\Entidad.pdb
 D:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\BackEndDrisonet\bin\Debug\netcoreapp3.1\Negocio.pdb
+D:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\BackEndDrisonet\obj\Debug\netcoreapp3.1\BackEndDrisonet.csprojAssemblyReference.cache
 D:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\BackEndDrisonet\obj\Debug\netcoreapp3.1\staticwebassets\BackEndDrisonet.StaticWebAssets.Manifest.cache
 D:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\BackEndDrisonet\obj\Debug\netcoreapp3.1\staticwebassets\BackEndDrisonet.StaticWebAssets.xml
 D:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\BackEndDrisonet\obj\Debug\netcoreapp3.1\scopedcss\bundle\BackEndDrisonet.styles.css
