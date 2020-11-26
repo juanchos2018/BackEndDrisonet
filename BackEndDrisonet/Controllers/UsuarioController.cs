@@ -54,8 +54,7 @@ namespace BackEndDrisonet.Controllers
             //    .Child("Usuarios")
             //   .OnceAsync<Usuario>();
             var lista = allPersons.Where(x => x.id_usuario == id_usuario).FirstOrDefault();
-          //  Resultado.data = query;
-          //  return Json(lista);
+      
             return Json(new {data =lista });
             // return allPersons.Where(a => a.id_usuario == id_usuario).FirstOrDefault();
         }

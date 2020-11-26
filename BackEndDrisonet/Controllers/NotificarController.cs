@@ -24,18 +24,19 @@ namespace BackEndDrisonet.Controllers
         public  async Task< IActionResult> Notificar([FromBody] Notificacion o)
         {
             await   one.SetNotificaion(o);
+            EnviarNotificacion(o.token,o.nombre_empresa, o.mensaje,o.detalle);
            // EnviarNotificacion(o.token);
             return Ok();
         }
-        public void EnviarNotificacion(string deviceId)
+        public void EnviarNotificacion(string deviceId,string nombreempresa, string mensaje,string detalle)
         {
-            string titulos = "EMpresa Taxi";
-            string mensajes = "Te informamos que ..";
+            string titulos = nombreempresa;
+            string mensajes = mensaje +" "+detalle ;
             string response = "";
             try
             {
                 string titulo = titulos;
-                string mensaje = mensajes;
+              
                 string applicationID = "AAAAFOcMi-k:APA91bFtOu1xbHUqAtmstTQlI-VRi6Nkx-s2vBFtxIgrXsP2TXKP8S0EqVWub70qL73BWNDtypCkPhv2NP_2CzGTxMjV93q9tiICF3xJzztKc8n5Dq39VUhzF_HctlPc1-E5IVjQj3JU";
                 string senderId = "89775705065";
 
@@ -49,7 +50,7 @@ namespace BackEndDrisonet.Controllers
                     to = deviceId,
                     notification = new
                     {
-                        body = mensaje,
+                        body = mensajes,
                         title = titulo,
                         sound = "Enabled"
                     }
