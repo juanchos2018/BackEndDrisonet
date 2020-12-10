@@ -41,6 +41,8 @@ namespace BackEndDrisonet.Controllers
             publica.descripcion_noticia = UploadedFiles["descripcion_noticia"].ToString();
             publica.img_usuario = UploadedFiles["image_empresa"].ToString();
             publica.key_usuario = UploadedFiles["key_usuario"].ToString();
+            publica.titulo = UploadedFiles["titulo"].ToString();
+            publica.telefono = UploadedFiles["telefono"].ToString();
             long size = UploadedFiles.Files.Sum(f => f.Length);
             string ruta = Path.Combine(_env.ContentRootPath, "/Content/Images/");          
             string fileName = "";
