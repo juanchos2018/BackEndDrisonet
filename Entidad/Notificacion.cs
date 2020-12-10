@@ -17,6 +17,7 @@ namespace Entidad
         public string  mensaje { get; set; }
         public string detalle { get; set; }
         public string  ruta_documento { get; set; }
+        public string estado { get; set; }
 
     }
 }

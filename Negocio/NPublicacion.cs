@@ -69,7 +69,7 @@ namespace Negocio
 
                 await firebase
                   .Child("Publicaciones").Child(key_Noticia)
-                  .PutAsync(new Publicacion() {key_noticia=key_Noticia,key_usuario=o.key_usuario, nombre_usuario = o.nombre_usuario, img_usuario = o.img_usuario, descripcion_noticia = o.descripcion_noticia, img_noticia = ruta,fecha_noticia=DateTime.Now.Date.ToShortDateString() });
+                  .PutAsync(new Publicacion() {key_noticia=key_Noticia,key_usuario=o.key_usuario, nombre_usuario = o.nombre_usuario, img_usuario = o.img_usuario, descripcion_noticia = o.descripcion_noticia, img_noticia = ruta,fecha_noticia=DateTime.Now.Date.ToShortDateString(),telefono=o.telefono });
 
             }
             catch (Exception ex)

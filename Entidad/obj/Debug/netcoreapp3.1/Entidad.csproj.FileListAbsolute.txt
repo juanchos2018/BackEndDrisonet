@@ -24,3 +24,4 @@ D:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDri
 D:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\Entidad\obj\Debug\netcoreapp3.1\Entidad.csproj.CoreCompileInputs.cache
 D:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\Entidad\obj\Debug\netcoreapp3.1\Entidad.dll
 D:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\Entidad\obj\Debug\netcoreapp3.1\Entidad.pdb
+D:\Disco local\disco\IX-Ciclo\Construccion Software I\BackEndDrisonet\BackEndDrisonet\Entidad\obj\Debug\netcoreapp3.1\Entidad.csprojAssemblyReference.cache

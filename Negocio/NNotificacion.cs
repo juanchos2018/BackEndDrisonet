@@ -19,7 +19,7 @@ namespace Negocio
                 //o.estado_producto = "NoPublico";
                 await firebase
                   .Child("MisNotificaciones").Child(o.id_usuario).Child(Key)
-                  .PutAsync(new Notificacion() { nombre_empresa = o.nombre_empresa, image_empresa=o.image_empresa,fecha = DateTime.Now.ToShortDateString(), mensaje = o.mensaje, detalle = o.detalle, ruta_documento = o.ruta_documento });
+                  .PutAsync(new Notificacion() { nombre_empresa = o.nombre_empresa, image_empresa=o.image_empresa,fecha = DateTime.Now.ToString(), mensaje = o.mensaje, detalle = o.detalle, ruta_documento = o.ruta_documento,estado=o.estado });
 
 
             }

@@ -26,7 +26,7 @@ namespace Negocio
                 client = new FireSharp.FirebaseClient(conexion.conec());
                 var data = o;
                 data.id_usuario = id;
-                SetResponse setResponse = client.Set("Usuarios/" + data.id_usuario, data);               
+                SetResponse setResponse = client.Set("Usuario/" + data.id_usuario, data);               
 
             }
             catch (Exception ex)
@@ -42,7 +42,7 @@ namespace Negocio
             var firebase = new Firebase.Database.FirebaseClient("https://fir-app-cf755.firebaseio.com/");
 
             return (await firebase
-              .Child("Usuarios")
+              .Child("Usuario")
               .OnceAsync<Usuario>()).Select(item => new Usuario
               {
                   nombre_usuario = item.Object.nombre_usuario,
@@ -50,8 +50,26 @@ namespace Negocio
                   dni_usuario=item.Object.dni_usuario,
                   image_usuario=item.Object.image_usuario,
                   correo_usuario=item.Object.correo_usuario,
-                  token=item.Object.token,
+              
                   id_usuario=item.Object.id_usuario
+              }).ToList();
+        }
+
+        public async Task<List<Usuario>> ListaTaxista()
+        {
+            var firebase = new Firebase.Database.FirebaseClient("https://fir-app-cf755.firebaseio.com/");
+
+            return (await firebase
+              .Child("Usuarios")
+              .OnceAsync<Usuario>()).Select(item => new Usuario
+              {
+                  nombre_usuario = item.Object.nombre_usuario,
+                  apellido_usuario = item.Object.apellido_usuario,
+                  dni_usuario = item.Object.dni_usuario,
+                  image_usuario = item.Object.image_usuario,
+                  correo_usuario = item.Object.correo_usuario,
+                  token = item.Object.token,
+                  id_usuario = item.Object.id_usuario
               }).ToList();
         }
 
